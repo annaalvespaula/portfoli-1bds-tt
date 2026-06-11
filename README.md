@@ -1,1 +1,2 @@
-# portfoli-1bds-tt
+# portfoli-1bds-2-t
+projeto desenvouvido no colegio estadual dr gastâo vidigal, no ano de 2026 na turma do 1btds. a intensâo deste portifoli é esplicar a utilidade e as funsoes dos codigos em HTML,CSS e JS. As imagems,audios e videos aqui utilisados, foram retirados...
